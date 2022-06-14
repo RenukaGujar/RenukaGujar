@@ -1,9 +1,4 @@
 ## Hi there 👋 I'm Renuka Gujar
-#### I am front end developer from India
-
-
-
-Skills: C/C++/ JS / HTML / CSS
 
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 📫 How to reach me: renukagujar06@gmail.com 
