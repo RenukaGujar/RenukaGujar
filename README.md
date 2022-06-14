@@ -1,4 +1,4 @@
-### Hi there 👋### Hi there 👋, my name is Renuka Gujar
+## Hi there 👋 I'm Renuka Gujar
 #### I am front end developer from India
 
 
